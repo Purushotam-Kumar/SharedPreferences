@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+
+    <array name="country">
+        <item>India</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>Egypt</item>
+        <item>Russia</item>
+    </array>
+
+</resources>
